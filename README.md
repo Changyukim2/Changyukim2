@@ -93,5 +93,8 @@
 
 ## 📫 Contact
 
-- GitHub: [여기에 본인 깃허브 링크]
-- Email: [여기에 이메일]
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimck2999@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:kcg2994@naver.com)
+[![GitHub](https://img.shields.io/badge/GitHub_Main_Page-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithubid)
